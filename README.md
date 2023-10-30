@@ -31,6 +31,5 @@ You can copy this project to practise using Node and Express if you wish. To do 
 You may fork or copy this project for your own **personal** use.
 
 # Screenshots 
-![Screenshot of project](https://github.com/Rclarkeweb/silly-name-generator/assets/108008511/15cd5f98-ec01-4a8d-a93c-a4f65b5593d9)
-
-![Screenshot of project after button click](https://github.com/Rclarkeweb/silly-name-generator/assets/108008511/18ea0373-9906-4ebc-a870-5b1789ca7354)
+![Screenshot](https://github.com/Rclarkeweb/silly-name-generator/assets/108008511/b36aa3d7-fcd4-4adb-8839-5090967fcb1f)
+![Screenshot](https://github.com/Rclarkeweb/silly-name-generator/assets/108008511/04add5fc-b845-4936-af7a-5623e1c66c6d)

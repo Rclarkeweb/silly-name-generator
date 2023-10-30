@@ -1,0 +1,18 @@
+<%- include("partials/header.ejs") %>
+
+    <% if (locals.sillyname) { %>
+        <h1>
+            <%= sillyname %>
+        </h1>
+        <% } else { %>
+
+            <p>Click the button below to generate a silly name</p>
+            <% } %>
+
+
+                <form action="/submit" method="POST">
+                    <input type="submit" id="btn" value="Generate a Silly Name">
+                </form>
+
+
+                <%- include("partials/footer.ejs") %>
